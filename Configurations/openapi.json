@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "Butterfly Calculator",
+    "Version": "v1",
+    "Description": "Backend Technical Evaluation",
+    "ContactName": "Ahmed Mostafa",
+    "ContactEmail": "eng.gouda91@gmail.com",
+    "ContactUrl": "https://www.butterfly.systems",
+    "License": false,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://www.butterfly.systems"
+  }
+}
