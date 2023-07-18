@@ -1,6 +1,8 @@
 # Butterfly Calculator is RESTful web service.
 This service offers the following features:  
-•	Basic Operations: Addition, Subtraction, Division   
-•	Support multiple versions of ASP.NET Core Web API  
-•	Using stratgy design patern.   
-•	The calculator can handle a divide by zero condition.  
+â€¢	Basic Operations: Addition, Subtraction, Division   
+â€¢	Support multiple versions of ASP.NET Core Web API  
+â€¢	Using stratgy design patern.   
+â€¢	The calculator can handle a divide by zero condition.  
+Check cicd build trigger
+
