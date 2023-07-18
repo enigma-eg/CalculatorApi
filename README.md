@@ -4,5 +4,4 @@ This service offers the following features:
 •	Support multiple versions of ASP.NET Core Web API  
 •	Using stratgy design patern.   
 •	The calculator can handle a divide by zero condition.  
-Check cicd build trigger
-
+test cisd trigger
